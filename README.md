@@ -1,2 +1,0 @@
-# tabBarDemo
-taBarrdemoe
